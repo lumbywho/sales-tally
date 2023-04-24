@@ -10,13 +10,13 @@ Record sales for different sellers competing to out-sale each other to reach a h
 
 ### 1. Server
 
-1. `yarn install`
-2. `cd server`
+1. `cd server`
+2. `yarn install`
 3. `yarn start`
 
 ### 2. Client
 
-1. `yarn install`
-2. `cd client`
+1. `cd client`
+2. `yarn install`
 3. `yarn serve`
 4. The terminal will tell you on which port/URL the application is running
