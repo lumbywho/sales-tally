@@ -10,7 +10,7 @@ Record sales for different sellers competing to out-sale each other to reach a h
 
 ### 1. Server
 
-1. `yarn install1
+1. `yarn install`
 2. `cd server`
 3. `yarn start`
 
